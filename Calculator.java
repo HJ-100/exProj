@@ -8,5 +8,8 @@ public class Calculator {
   calc.subtract(a,b);
   calc.multiply(a,b);
   clac.divide(a,b);
+  
+  System.out.println(calc.add(a,b);
+  
   }
 }
